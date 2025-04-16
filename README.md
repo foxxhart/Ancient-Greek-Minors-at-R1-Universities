@@ -2,7 +2,7 @@
 
 A dataset of the requirements for a minor in Ancient Greek at R1 Universities. Last updated August 2024.
 
-To cite, please use Hart, F. (2025). Ancient Greek Minors at R1 Universities `[Data set]`. URL:  
+To cite, please use Hart, F. (2025). Ancient Greek Minors at R1 Universities `[Data set]`. URL: https://github.com/foxxhart/Ancient-Greek-Minors-at-R1-Universities
 
 **Variables:**
 
